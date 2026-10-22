@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title">
+<title id="title">Ink &amp; Imagination — Forrester &amp; Pickford Books</title>
+<rect width="1200" height="300" fill="#101b2b"/>
+<g fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round">
+<path d="M95 235 C128 185 145 124 197 42 C190 84 174 115 153 143 C174 132 192 113 207 92 C202 120 184 145 160 160 C182 152 202 137 219 119 C209 149 186 170 158 181 C180 176 197 165 212 151 C200 177 178 194 150 201 C165 200 180 194 193 186 C175 207 150 222 119 230 Z" stroke-width="2"/>
+<path d="M96 236 C139 226 165 209 197 211 C220 212 236 226 216 243 C203 253 188 256 174 256" fill="none" stroke-width="4"/>
+</g>
+<text x="255" y="150" fill="#fff" font-family="Georgia, 'Times New Roman', serif" font-size="93" letter-spacing="1">INK &amp; IMAGINATION</text>
+<text x="265" y="211" fill="#fff" font-family="Georgia, 'Times New Roman', serif" font-size="32" letter-spacing="9">FORRESTER &amp; PICKFORD BOOKS</text>
+</svg>
