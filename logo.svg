@@ -1,10 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 350" role="img" aria-labelledby="title">
 <title id="title">Ink &amp; Imagination — Forrester &amp; Pickford Books</title>
-<rect width="1200" height="300" fill="#101b2b"/>
 <g fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round">
-<path d="M95 235 C128 185 145 124 197 42 C190 84 174 115 153 143 C174 132 192 113 207 92 C202 120 184 145 160 160 C182 152 202 137 219 119 C209 149 186 170 158 181 C180 176 197 165 212 151 C200 177 178 194 150 201 C165 200 180 194 193 186 C175 207 150 222 119 230 Z" stroke-width="2"/>
-<path d="M96 236 C139 226 165 209 197 211 C220 212 236 226 216 243 C203 253 188 256 174 256" fill="none" stroke-width="4"/>
+<path d="M65 285 C86 224 111 139 188 28 C180 83 159 122 132 158 C160 141 187 113 207 81 C202 119 178 153 145 174 C175 164 205 140 229 112 C216 151 187 181 149 197 C178 190 207 172 228 149 C209 184 179 209 140 224 C161 222 184 213 205 199 C179 232 146 253 106 266 Z" stroke-width="2"/>
+<path d="M67 286 C113 268 151 245 192 247 C219 248 239 265 214 285 C199 297 179 300 161 299" fill="none" stroke-width="4"/>
 </g>
-<text x="255" y="150" fill="#fff" font-family="Georgia, 'Times New Roman', serif" font-size="93" letter-spacing="1">INK &amp; IMAGINATION</text>
-<text x="265" y="211" fill="#fff" font-family="Georgia, 'Times New Roman', serif" font-size="32" letter-spacing="9">FORRESTER &amp; PICKFORD BOOKS</text>
+<text x="265" y="174" fill="#fff" font-family="'URW Chancery L','Brush Script MT','Segoe Script',cursive" font-size="116" font-style="italic">Ink &amp; Imagination</text>
+<text x="282" y="250" fill="#fff" font-family="Georgia,'Times New Roman',serif" font-size="38" font-weight="bold" letter-spacing="8">FORRESTER &amp; PICKFORD BOOKS</text>
 </svg>
